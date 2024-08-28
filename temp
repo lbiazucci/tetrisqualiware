@@ -1,0 +1,22 @@
+
+
+const iconUrls = {
+    1: 'url(BusinessProcessDiagram.png)',
+    2: 'url(BusinessProcessNetwork.png)',
+    3: 'url(GenericQuery.png)',
+    4: 'url(ModelVisualizer.png)',
+    5: 'url(Spreadsheet.png)',
+    6: 'url(WorkFlowDiagram.png)',
+    7: 'url(RelationalDiagram.png)',
+};
+
+
+const iconUrls = {
+    1: 'url(BusinessProcessDiagram.html)',
+    2: 'url(BusinessProcessNetwork.html)',
+    3: 'url(GenericQuery.html)',
+    4: 'url(ModelVisualizer.html)',
+    5: 'url(Spreadsheet.html)',
+    6: 'url(WorkFlowDiagram.html)',
+    7: 'url(RelationalDiagram.html)',
+};
